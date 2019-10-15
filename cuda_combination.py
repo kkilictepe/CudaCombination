@@ -5,7 +5,6 @@ Created on Sat Sep 28 00:47:38 2019
 
 import numba
 from numba import cuda
-import math
 import numpy as np
 from pdb import set_trace
 
