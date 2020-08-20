@@ -11,5 +11,5 @@ Keywords:
 CUDA GPU Multi-Thread Combination Python Numba
 
 Note:
-TDR Delay (timeout) should be increased if an time-out error occurs on windows systems.
+TDR Delay (timeout) should be increased if a time-out error occurs on windows systems.
 https://docs.microsoft.com/en-us/windows-hardware/drivers/display/tdr-registry-keys
