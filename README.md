@@ -10,5 +10,5 @@ https://docs.microsoft.com/en-us/windows-hardware/drivers/display/tdr-registry-k
 Algorithm taken from 
 https://www.developertyrone.com/blog/generating-the-mth-lexicographical-element-of-a-mathematical-combination/
 
-
-CUDA Combination Python Numba
+Keywords:
+CUDA GPU Multi-Thread Combination Python Numba
